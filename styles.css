@@ -36,7 +36,8 @@ nav {
 	padding-right: 50px;
 	padding-top: 10px;
 	background-color: #c6b299;
-	width: 800px;
+	/* width: 800px;  this is for pc web pages */
+	width: 350px; /* this is for mobile width */
 	margin: 0 auto;
 }
 
@@ -45,7 +46,8 @@ nav {
 	padding-right: 50px;
 	padding-top: 10px;	
 	background-color: #c6b299;
-	width: 800px;
+	/* width: 800px;  this is for pc web pages */
+	width: 350px; /* this is for mobile width */
 	margin: 0 auto;
 }
 
@@ -68,6 +70,26 @@ nav {
 	line-height:55px;
 	padding-top:20px;
 	background-color: #c6b299;
+}
+
+#block {
+	width: 50px;
+	height: 50px;
+}
+
+#logoGame {
+	width: 50px;
+	height: 50px;
+}
+
+#sorry {
+	width: 50px;
+	height: 50px;
+}
+
+#firefly {
+	width: 50px;
+	height: 50px;
 }
 
 #productText {
