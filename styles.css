@@ -55,7 +55,8 @@ nav {
 #store {
 	margin: 0 auto;
 	background-color: #c6b299;
-	width:800px;
+	/* width: 800px;  this is for pc web pages */
+	width: 260px; /* this is for mobile width */
 }
 
 #product {
@@ -96,8 +97,8 @@ nav {
 
 #productText {
 	font-size:12px;	
-	padding-left:50px;
-	padding-top:50px;
+	padding-left: 2px; /* for web make 50px */
+	padding-top: 10px; /* for web make 50px */
 	float:left;
 	/* width:450px; for regular web view */
 	width: 150px; /* kfor mobile site only */
@@ -106,8 +107,8 @@ nav {
 
 #productText2 {
 	font-size:12px;	
-	padding-left:50px;
-	padding-top:110px;
+	padding-left: 2px; /* for web make 50px */
+	padding-top: 10px; /* for web make 110px */
 	float:left;
 	/* width:450px; for regular web view */
 	width: 150px; /* kfor mobile site only */
@@ -116,8 +117,8 @@ nav {
 
 #productText3 {
 	font-size:12px;	
-	padding-left:50px;
-	padding-top:100px;
+	padding-left: 2px; /* for web make 50px */
+	padding-top: 10px; /* for web make 110px */
 	padding-bottom:73px;
 	float:left;
 	/* width:450px; for regular web view */
