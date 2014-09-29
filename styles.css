@@ -62,7 +62,7 @@ nav {
 #product {
 	height:625px;	
 	/* width:260px; for regular web view */
-	width: 110px; /* for mobile view only */
+	width: 150px; /* for mobile view only */
 	float:left;
 	background-color: #c6b299;
 
@@ -73,7 +73,7 @@ nav {
 	line-height:55px;
 	padding-top:20px;
 	background-color: #c6b299;
-	list-style-position:inherit;
+	padding-left: 5px;
 }
 
 #block {
