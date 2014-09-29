@@ -25,7 +25,8 @@ nav {
 
 #headerIndex {
 	margin: 0 auto;
-	width: 800px;
+	/* width: 800px; for regular website view */
+	width: 250px; /* for mobile site only */
 	padding-left:20px;
 	padding-top: 20px;
 	height: 50px;
@@ -37,7 +38,7 @@ nav {
 	padding-top: 10px;
 	background-color: #c6b299;
 	/* width: 800px;  this is for pc web pages */
-	width: 350px; /* this is for mobile width */
+	width: 250px; /* this is for mobile width */
 	margin: 0 auto;
 }
 
@@ -47,7 +48,7 @@ nav {
 	padding-top: 10px;	
 	background-color: #c6b299;
 	/* width: 800px;  this is for pc web pages */
-	width: 350px; /* this is for mobile width */
+	width: 250px; /* this is for mobile width */
 	margin: 0 auto;
 }
 
@@ -73,23 +74,23 @@ nav {
 }
 
 #block {
-	width: 50px;
-	height: 50px;
+	width: 100px; /* these values for mobile site only */
+	height: 100px;
 }
 
 #logoGame {
-	width: 50px;
-	height: 50px;
+	width: 100px; /* these values for mobile site only */
+	height: 100px;
 }
 
 #sorry {
-	width: 50px;
-	height: 50px;
+	width: 100px; /* these values for mobile site only */
+	height: 100px;
 }
 
 #firefly {
-	width: 50px;
-	height: 50px;
+	width: 100px; /* these values for mobile site only */
+	height: 100px;
 }
 
 #productText {
@@ -97,7 +98,8 @@ nav {
 	padding-left:50px;
 	padding-top:50px;
 	float:left;
-	width:450px;
+	/* width:450px; for regular web view */
+	width: 150px; /* kfor mobile site only */
 	background-color: #c6b299;
 }
 
@@ -106,7 +108,8 @@ nav {
 	padding-left:50px;
 	padding-top:110px;
 	float:left;
-	width:450px;
+	/* width:450px; for regular web view */
+	width: 150px; /* kfor mobile site only */
 	background-color: #c6b299;
 }
 
@@ -116,7 +119,8 @@ nav {
 	padding-top:100px;
 	padding-bottom:73px;
 	float:left;
-	width:450px;
+	/* width:450px; for regular web view */
+	width: 150px; /* kfor mobile site only */
 	background-color: #c6b299;
 }
 
