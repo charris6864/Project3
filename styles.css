@@ -56,13 +56,12 @@ nav {
 	margin: 0 auto;
 	background-color: #c6b299;
 	/* width: 800px;  this is for pc web pages */
-	width: 260px; /* this is for mobile width */
+	width: 320px; /* this is for mobile width */
 }
 
 #product {
 	height:625px;	
 	/* width:260px; for regular web view */
-	//width: 110px; /* for mobile view only */
 	float:left;
 	background-color: #c6b299;
 
@@ -98,32 +97,32 @@ nav {
 
 #productText {
 	font-size:12px;	
-	padding-left: 2px; /* for web make 50px */
+	padding-left: 5px; /* for web make 50px */
 	padding-top: 10px; /* for web make 50px */
 	float:left;
 	/* width:450px; for regular web view */
-	width: 150px; /* kfor mobile site only */
+	width: 160px; /* kfor mobile site only */
 	background-color: #c6b299;
 }
 
 #productText2 {
 	font-size:12px;	
-	padding-left: 2px; /* for web make 50px */
+	padding-left: 5px; /* for web make 50px */
 	padding-top: 10px; /* for web make 110px */
 	float:left;
 	/* width:450px; for regular web view */
-	width: 150px; /* kfor mobile site only */
+	width: 160px; /* kfor mobile site only */
 	background-color: #c6b299;
 }
 
 #productText3 {
 	font-size:12px;	
-	padding-left: 2px; /* for web make 50px */
+	padding-left: 5px; /* for web make 50px */
 	padding-top: 10px; /* for web make 110px */
 	padding-bottom:73px;
 	float:left;
 	/* width:450px; for regular web view */
-	width: 150px; /* kfor mobile site only */
+	width: 160px; /* kfor mobile site only */
 	background-color: #c6b299;
 }
 
