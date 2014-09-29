@@ -57,6 +57,8 @@ nav {
 	background-color: #c6b299;
 	/* width: 800px;  this is for pc web pages */
 	width: 320px; /* this is for mobile width */
+	background-color: #c6b299;
+
 }
 
 #product {
@@ -69,10 +71,10 @@ nav {
 
 #productImages {
 	list-style:none;
-	line-height:55px;
+	line-height:60px;
 	padding-top:20px;
 	background-color: #c6b299;
-	padding-left: 5px;
+	padding-left: 10px;
 }
 
 #block {
@@ -97,8 +99,8 @@ nav {
 
 #productText {
 	font-size:12px;	
-	padding-left: 5px; /* for web make 50px */
-	padding-top: 10px; /* for web make 50px */
+	padding-left: 10px; /* for web make 50px */
+	padding-top: 15px; /* for web make 50px */
 	float:left;
 	/* width:450px; for regular web view */
 	width: 160px; /* kfor mobile site only */
@@ -107,7 +109,7 @@ nav {
 
 #productText2 {
 	font-size:12px;	
-	padding-left: 5px; /* for web make 50px */
+	padding-left: 10px; /* for web make 50px */
 	padding-top: 10px; /* for web make 110px */
 	float:left;
 	/* width:450px; for regular web view */
@@ -117,7 +119,7 @@ nav {
 
 #productText3 {
 	font-size:12px;	
-	padding-left: 5px; /* for web make 50px */
+	padding-left: 10px; /* for web make 50px */
 	padding-top: 10px; /* for web make 110px */
 	padding-bottom:73px;
 	float:left;
