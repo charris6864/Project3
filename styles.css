@@ -62,7 +62,7 @@ nav {
 #product {
 	height:625px;	
 	/* width:260px; for regular web view */
-	width: 260px; /* for mobile view only */
+	//width: 110px; /* for mobile view only */
 	float:left;
 	background-color: #c6b299;
 
